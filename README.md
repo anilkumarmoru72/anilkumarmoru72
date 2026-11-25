@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=cydiam7&label=Profile%20views&color=0e75b6&style=flat" alt="cydiam7" />
 </p>
 
-<h1 align="center">Hi 👋, I'm cydiam</h1>
+<h1 align="center">Hi 👋, I'm Anil Kumar Moru</h1>
 <h3 align="center">A passionate Full Stack & AI Developer</h3>
 
 <p align="center">
