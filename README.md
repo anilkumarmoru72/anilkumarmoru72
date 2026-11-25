@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cydiam7&label=Profile%20views&color=0e75b6&style=flat" alt="cydiam7" />
+  <img src="https://komarev.com/ghpvc/?username=anilkumarmoru72&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anil Kumar Moru</h1>
@@ -69,19 +69,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cydiam7&show_icons=true&theme=radical" alt="cydiam7's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cydiam7&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anilkumarmoru72&show_icons=true&theme=radical" alt="anilkumarmoru72's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anilkumarmoru72&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
 
 #### Top Repositories
 
-<a href="https://github.com/cydiam7/othmanresign">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydiam7&repo=othmanresign&theme=buefy" />
+<a href="https://github.com/anilkumarmoru72/othmanresign">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilkumarmoru72&repo=othmanresign&theme=buefy" />
 </a>
-<a href="https://github.com/cydiam7/DevQuotes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cydiam7&repo=DevQuotes&theme=buefy" />
+<a href="https://github.com/anilkumarmoru72/DevQuotes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilkumarmoru72&repo=DevQuotes&theme=buefy" />
 </a>
 
 ---
@@ -89,7 +89,7 @@
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://github.com/cydiam7" target="_blank">
+  <a href="https://github.com/anilkumarmoru72" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
